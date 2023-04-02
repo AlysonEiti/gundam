@@ -1,0 +1,32 @@
+[
+    {
+      "path": "/assets/image/icons/home.png",
+      "alt": "Home icon",
+      "link": "Home",
+      "id": 1
+    },
+    {
+      "path": "/assets/image/icons/most_views.png",
+      "alt": "View icon",
+      "link": "Most views",
+      "id": 2
+    },
+    {
+      "path": "/assets/image/icons/most_likes.png",
+      "alt": "Liked icon",
+      "link": "Most likes",
+      "id": 3
+    },
+    {
+      "path": "/assets/image/icons/news.png",
+      "alt": "New icon",
+      "link": "News",
+      "id": 4
+    },
+    {
+      "path": "/assets/image/icons/surprise_me.png",
+      "alt": "Lamp icon",
+      "link": "Surprise-me",
+      "id": 5
+    }
+  ]

@@ -1,0 +1,32 @@
+[
+    {
+      "path": "/assets/image/popular/gundam.jpg",
+      "alt": "Gundam",
+      "id": 1
+    },
+    {
+      "path": "/assets/image/popular/banshee.jpg",
+      "alt": "Gundam Banshee",
+      "id": 2
+    },
+    {
+      "path": "/assets/image/popular/epyon.jpg",
+      "alt": "Gundam Epyon",
+      "id": 3
+    },
+    {
+      "path": "/assets/image/popular/bael.jpg",
+      "alt": "BAEL!",
+      "id": 4
+    },
+    {
+      "path": "/assets/image/popular/turn.jpg",
+      "alt": "Turn a vs Turn x",
+      "id": 5
+    },
+    {
+      "path": "/assets/image/popular/gundam_dx.jpg",
+      "alt": "Gundam DX",
+      "id": 6
+    }
+  ]

@@ -1,0 +1,501 @@
+
+[
+    {
+      "title": "Wing Zero Custom EW",
+      "wiki": "",
+      "image": "/assets/image/gallery/wing_zero_custom_ew.jpg",
+      "id": "1",
+      "tag": "After Colony"
+    },
+    {
+      "title": "00 Gundam",
+      "wiki": "https://gundam.fandom.com/wiki/GN-0000_00_Gundam",
+      "image": "/assets/image/gallery/00_gundam.jpg",
+      "id": "2",
+      "tag": "Anno Domini"
+    },    
+    {
+      "title": "Destiny Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/destiny_gundam.jpg",
+      "id": "3",
+      "tag": "Cosmic Era"
+    },        
+    {
+      "title": "Gundam Unicorn",
+      "wiki": "",
+      "image": "/assets/image/gallery/unicorn.jpg",
+      "id": "4",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Banshee",
+      "wiki": "",
+      "image": "/assets/image/gallery/banshee.jpg",
+      "id": "5",
+      "tag": "Universe Century"    
+    },
+    {
+      "title": "v Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/nu_gundam.jpg",
+      "id": "6",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Sazabi",
+      "wiki": "",
+      "image": "/assets/image/gallery/sazabi.jpg",
+      "id": "7",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Tallgeese",
+      "wiki": "",
+      "image": "/assets/image/gallery/tallgeese.jpg",
+      "id": "8",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Wing Zero",
+      "wiki": "",
+      "image": "/assets/image/gallery/wing_zero.jpg",
+      "id": "9",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Infinite Justice Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/justice_gundam.jpg",
+      "id": "10",
+      "tag": "Cosmic Era"
+    },
+    {
+      "title": "Barbatos Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/barbatos.jpg",
+      "id": "11",
+      "tag": "Others"
+    },
+    {
+      "title": "Aegis Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/aegis_gundam.jpg",
+      "id": "12",
+      "tag": "Cosmic Era"
+    },
+    {
+      "title": "Age Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/age.jpg",
+      "id": "13",
+      "tag": "Others"
+    },
+    {
+      "title": "Gundam DeathScythe Custom EW",
+      "wiki": "",
+      "image": "/assets/image/gallery/deathscythe_custom_ew.jpg",
+      "id": "14",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Bael",
+      "wiki": "https://gundam.fandom.com/wiki/ASW-G-01_Gundam_Bael",
+      "image": "/assets/image/gallery/bael.jpg",
+      "id": "15",
+      "tag": "Others"
+    },
+    {
+      "title": "Dom",
+      "wiki": "",
+      "image": "/assets/image/gallery/dom.jpg",
+      "id": "16",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Flag",
+      "wiki": "",
+      "image": "/assets/image/gallery/flag.jpg",
+      "id": "17",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "G-Self",
+      "wiki": "",
+      "image": "/assets/image/gallery/g_self.png",
+      "id": "18",
+      "tag": "Others"
+    },
+    {
+      "title": "Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam.jpg",
+      "id": "19",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Aerial",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_aerial.jpg",
+      "id": "20",
+      "tag": "Others"
+    },
+    {
+      "title": "Gundam Atlas",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_atlas.jpg",
+      "id": "21",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Double X",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_dx.jpg",
+      "id": "22",
+      "tag": "Others"
+    },
+    {
+      "title": "Gundam F91",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_f91.jpg",
+      "id": "23",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Providence",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_providence.jpg",
+      "id": "24",
+      "tag": "Cosmic Era"
+    },
+    {
+      "title": "Hambrabi",
+      "wiki": "",
+      "image": "/assets/image/gallery/hambrabi.jpg",
+      "id": "25",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Hyaku Shiki",
+      "wiki": "",
+      "image": "/assets/image/gallery/hyaku_shiki.jpg",
+      "id": "26",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Quebley",
+      "wiki": "",
+      "image": "/assets/image/gallery/quebley.png",
+      "id": "27",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Sandrock",
+      "wiki": "",
+      "image": "/assets/image/gallery/sandrock.jpg",
+      "id": "28",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Gundam Heavyarms",
+      "wiki": "",
+      "image": "/assets/image/gallery/heavyarms.jpg",
+      "id": "29",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Gundam Nataku",
+      "wiki": "",
+      "image": "/assets/image/gallery/altron.jpg",
+      "id": "30",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Shining Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/shining_gundam.jpg",
+      "id": "31",
+      "tag": "Others"
+    },
+    {
+      "title": "God Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/god_gundam.jpg",
+      "id": "32",
+      "tag": "Others"
+    },
+    {
+      "title": "Master Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/master_gundam.jpg",
+      "id": "33",
+      "tag": "Others"
+    },
+    {
+      "title": "Aile Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/aile_gundam.jpg",
+      "id": "34",
+      "tag": "Cosmic Era"
+    },
+    {
+      "title": "Arche",
+      "wiki": "",
+      "image": "/assets/image/gallery/arche.jpg",
+      "id": "35",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Gold Frame Amatsu Mina",
+      "wiki": "",
+      "image": "/assets/image/gallery/gold_frame.png",
+      "id": "36",
+      "tag": "Cosmic Era"      
+    },
+    {
+      "title": "Sinanju",
+      "wiki": "",
+      "image": "/assets/image/gallery/sinanju.jpg",
+      "id": "37",
+      "tag": "Universe Century"      
+    },
+    {
+      "title": "GP01",
+      "wiki": "",
+      "image": "/assets/image/gallery/gp01.jpg",
+      "id": "38",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "GP02",
+      "wiki": "",
+      "image": "/assets/image/gallery/gp02.jpg",
+      "id": "39",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Dynames",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_dynames.jpg",
+      "id": "40",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Gunda Exia",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_exia.jpg",
+      "id": "41",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Gundam Arios",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_arios.jpg",
+      "id": "42",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Gundam Virtue",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_virtue.jpg",
+      "id": "43",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Hi v-Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/hi_nu_gundam.jpg",
+      "id": "44",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Nightingale",
+      "wiki": "",
+      "image": "/assets/image/gallery/nightingale.png",
+      "id": "45",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "The-O",
+      "wiki": "",
+      "image": "/assets/image/gallery/the_o.jpg",
+      "id": "46",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Vidar",
+      "wiki": "",
+      "image": "/assets/image/gallery/vidar.jpg",
+      "id": "47",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Wing Feniche",
+      "wiki": "",
+      "image": "/assets/image/gallery/wing_feniche.jpg",
+      "id": "48",
+      "tag": "Others"
+    },
+    {
+      "title": "Xi Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/xi_gundam.jpg",
+      "id": "49",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Penelope Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/penelope.jpg",
+      "id": "50",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Freedom Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/freedom_gundam.jpg",
+      "id": "51",
+      "tag": "Cosmic Era"
+    },
+    {
+      "title": "Gundam Alex",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_alex.png",
+      "id": "52",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Ground Type",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_ground.jpg",
+      "id": "53",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Crossbone",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_crossbone.jpg",
+      "id": "54",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Kampfer",
+      "wiki": "",
+      "image": "/assets/image/gallery/kampfer.jpg",
+      "id": "55",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Strike Freedom Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/strike_freedom_gundam.jpg",
+      "id": "56",
+      "tag": "Cosmic Era"
+    },
+    {
+      "title": "Impulse Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/impulse_gundam.jpg",
+      "id": "57",
+      "tag": "Cosmic Era"
+    },
+    {
+      "title": "Zeta Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/zeta_gundam.jpg",
+      "id": "58",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "ZZ Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/zz_gundam.jpg",
+      "id": "59",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gouf",
+      "wiki": "",
+      "image": "/assets/image/gallery/gouf.jpg",
+      "id": "60",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Burning Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/burning_gundam.jpg",
+      "id": "61",
+      "tag": "Others"
+    },
+    {
+      "title": "Gundam Legillis",
+      "wiki": "",
+      "image": "/assets/image/gallery/gundam_legillis.png",
+      "id": "62",
+      "tag": "Others"
+    },
+    {
+      "title": "Zaku-II Char",
+      "wiki": "",
+      "image": "/assets/image/gallery/zaku_char.jpg",
+      "id": "63",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Zeong",
+      "wiki": "",
+      "image": "/assets/image/gallery/zeong.jpg",
+      "id": "64",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Turn a vs Turn x",
+      "wiki": "",
+      "image": "/assets/image/gallery/turn.jpg",
+      "id": "65",
+      "tag": "Universe Century"
+    },
+    {
+      "title": "Gundam Throne Drei",
+      "wiki": "",
+      "image": "/assets/image/gallery/throne_drei.jpg",
+      "id": "66",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Reborns Gundam",
+      "wiki": "",
+      "image": "/assets/image/gallery/reborns_gundam.jpg",
+      "id": "67",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "00 Quanta",
+      "wiki": "",
+      "image": "/assets/image/gallery/quanta.jpg",
+      "id": "68",
+      "tag": "Anno Domini"
+    },
+    {
+      "title": "Gundam Deathscythe",
+      "wiki": "",
+      "image": "/assets/image/gallery/deathscythe.jpg",
+      "id": "69",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Gundam Epyon",
+      "wiki": "",
+      "image": "/assets/image/gallery/epyon.jpg",
+      "id": "70",
+      "tag": "After Colony"
+    },
+    {
+      "title": "Wing Zero Custom",
+      "wiki": "",
+      "image": "/assets/image/gallery/wing_zero_custom.jpg",
+      "id": "71",
+      "tag": "After Colony"
+    } 
+  ]
+  
